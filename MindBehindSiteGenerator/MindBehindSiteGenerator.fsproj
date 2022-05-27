@@ -6,7 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="Files\favicon.ico" />
+    <Content Include="Files\app.css" />
+    <Compile Include="Data.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
+
+  <ItemGroup />
 
 </Project>
